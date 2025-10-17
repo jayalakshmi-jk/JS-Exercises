@@ -165,7 +165,7 @@
 // }
 
 
-
+// =========================================BALACHANDAR================================================
 
 //Write a program that gets a number n from the user. The task is to print the number
 //  from 1 to n by mentioning it as odd or even number.
@@ -194,19 +194,15 @@
 // for (let i = 1; i <= b; i++){
 //     if (i % 3 == 0 && i % 5 == 0) {
 //         c = "FizzBuzz"
-//         // a += c
 //          a.push(c)
 //     } else if (i % 3 == 0) {
 //         c = "Fizz"
-//         //a += c
 //         a.push(c)
 //     } else if (i % 5 == 0) {
 //         c = "Buzz"
-//        // a += c
 //         a.push(c)
 //     } else {
 //         c = i
-//        // a += c
 //         a.push(c)
 //     }
 // }
