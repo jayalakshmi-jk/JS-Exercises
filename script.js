@@ -279,3 +279,28 @@
 // let e=Number(prompt("e="));
 // let result=a+b-c*d/e;
 //  console.log(`result=${result}`)
+
+
+
+
+//inner and outer function
+
+// function outer(){
+//     let count=0;
+//     return function inner(){
+//         count+=2;
+//         // count++
+//         return count;
+//     }
+// }
+// const counter=outer();
+// console.log(counter());
+// console.log(counter());
+// console.log(counter());
+// console.log(counter());
+
+
+
+
+
+
